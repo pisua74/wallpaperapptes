@@ -1,0 +1,23 @@
+<resources>
+    <!--name app-->
+    <string name="app_name">Mark Tuan Wallpaper</string>
+    <!--detail image view-->
+    <string name="detail">Show Wallpaper</string>
+
+    <!--code banner ads and interstitial banner-->
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--action menu bar-->
+    <string name="rate">Rate It</string>
+    <string name="all_app">All App</string>
+    <string name="about">About</string>
+
+    <!--singdfsfsfsroid _> name developer google play-->
+    <string name="name_developer_app"></string>
+
+    <!--dialog about app-->
+    <string name="title"></string>
+    <string name="email_developer"></string>
+
+</resources>
